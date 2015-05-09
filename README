@@ -1,0 +1,8 @@
+The ads1298-breakout project is a break-out board for the Texas Instruments
+ADS1298R BGA chip.
+
+The board does not include electrical isolation, thus must not be used
+with human subjects if connected to a computer connected to wall power.
+External isolation can be added, see:
+http://github.com/kms15/digital-isolator
+(Alternatively, a laptop running from battery may be okay).
